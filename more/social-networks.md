@@ -4,7 +4,7 @@
 
 🐧 Twitter: [https://www.instagram.com/metaverseofworld/](https://www.instagram.com/metaverseofworld/)
 
-📨 Telegram: [https://t.me/MetaverseOpenWorld](https://t.me/MetaverseOpenWorld)
+📨 Telegram: [https://t.me/MetaverseofWorld](https://t.me/MetaverseofWorld)
 
 📡 Instagram: [https://www.instagram.com/metaverseofworld/](https://www.instagram.com/metaverseofworld/)
 
