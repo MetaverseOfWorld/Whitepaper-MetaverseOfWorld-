@@ -12,6 +12,6 @@
 
 :tada:Facebook: [https://www.facebook.com/profile.php?id=100078789314467](https://www.facebook.com/profile.php?id=100078789314467)
 
-🌎 𝐆𝐢𝐭𝐡𝐮𝐛: [https://github.com/METAVERSEOFWORLD/MOW](https://github.com/METAVERSEOFWORLD/MOW)
+🌎 𝐆𝐢𝐭𝐡𝐮𝐛: [https://github.com/MetaverseOfWorld](https://github.com/MetaverseOfWorld)
 
 ​
