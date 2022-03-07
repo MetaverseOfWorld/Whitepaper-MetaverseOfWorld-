@@ -6,6 +6,8 @@ coverY: 201.6106785317019
 
 # Information
 
+
+
 | HUMANS     | ELVES   | GARGOYLES   |
 | ---------- | ------- | ----------- |
 | BLACKSMITH | NINJA   | NECROMANCER |
@@ -15,6 +17,10 @@ coverY: 201.6106785317019
 
 
 HUMANS
+
+
+
+MOW protectors, humans have adapted to their environment, enhancing many skills and abilities: strong-back Years of hard work allow more weight to be carried on their hard backs. Humans have increased strength-determined weight-bearing capacity. Carry 60 additional Weight Stones. Tough Accustomed to overcoming adversity, humans regenerate health faster than ever before. They regenerate health points faster than normal. +2 Hit Point Regeneration Workhorse Humans have a better chance of finding more resources when searching for fur, metal, or wood. +1 Logs in Trammel +2 Logs in Felucca +1 ore with random mining Additional skins jack of all trades The curiosity for the things of humans has led to a basic knowledge of what surrounds him. They have level 20 in all skills even if they have not been trained (does not show in the skills menu)
 
 ## BLACKSMITH
 
@@ -38,6 +44,8 @@ For example, if a player recovers 5 points of energy in 10 seconds while standin
 
 ELVES
 
+Founders of the deepest forests of MOW and bound to nature, elves have the following skills and abilities: Night Sight Exceptional vision, even at night. Elves always have the effect of the Night Sight spell at maximum degree. Night Sight is always active. Infused with Magic Its resistant skin has increased the ability to overcome energy attacks. Elves have an extra layer of resistance, although they must increase it by training normally. Resilient skin has an increased capacity to resist damage from energy attacks. +5 to Energy Resistance (75 total) Difficult to Track Elves are harder to track than humans. perception They have increased perception of both hidden creatures and resources. They have more chance to detect hidden monsters and enemies automatically. Knowledge of Nature and resources. Elves have more chance to get special resources like colored metal or special wooden planks. wisdom The wisdom of nature, with an affinity for casting spells. They receive a bonus to their maximum mana. +20 Mana Increase Bonus
+
 ## NINJA
 
 This ability allows you to spot marauders moving in the shadows around you. The higher your skill level, the greater your character's "seeing" radius and the greater the chance of finding someone or something hidden. To reveal someone, the target needs to be moving. If you remain still you will not be discovered! The ability is passive, you don't need to do anything to detect another. If for some reason you do not want to reveal someone who is in your radius of action (a friend for example), you can use the command .detect The .detect command will turn this ability on or off.
@@ -52,11 +60,19 @@ This ability determines the number of steps or time you can stay hidden by walki
 
 ## MAGE
 
-It is the main skill of a mage or a scribe. With this ability, our character can cast different spells, be it damage, healing, protection, invocation... The higher this skill is, the more powerful your character will be able to cast spells. To make them we will need a book of magic, ingredients and intelligence, in addition to mana. Our character can also use scrolls to carry out his spells, casting a spell from a scroll consumes half the mana and does not consume any ingredients, also casting a spell from a scroll requires less magical ability. Your character's magic level will determine the chances of your spell taking effect on the target, the damage will depend solely on your Assess Intelligence ability.
+It is the main skill of a mage or a scribe. With this ability, our character can cast different spells, be it damage, healing, protection, invocation... The higher this skill is, the more powerful your character will be able to cast spells. To make them we will need a book of magic, ingredients and intelligence, in addition to mana. Our character can also use scrolls to carry out his spells, casting a spell from a scroll consumes half the mana and does not consume any ingredients, also casting a spell from a scroll requires less magical ability. Your character's magic level will determine the chances of your spell taking effect on the target, the damage will depend solely on your Assess Intelligence ability.Reagents In order to carry out the wizard spells we need a series of ingredients that are collected in the game world, there are the following: reagents In order to carry out the wizard spells we need a series of ingredients that are collected in the game world, there are the following:&#x20;
+
+
+
+Bat Wings - Bat Wings (common) - Blackmoor- Blackmoor(rare) - Black Pearl - Black Pearl(common) - Blackrock - Blackrock (rare) - Blood Moss - Blood Moss (common) - Blood Spawn - Blood Spawn ( rare) - Bone - Bone (rare) - Sharpening Stone - Brimstone (rare) - Demon Blood - Daemon Blood (common) - Demon Bone - Daemon Bone (common) - Dead Wood - Dead Wood (rare) - Dragon Blood - Dragon's Blood (rare) - Executioner's Cap - Executioner's Cap (rare) - Eye of Newt - Eye of Newt (rare) - Fertile Dirt - Fertile Dirt (rare) - Garlic - Garlic (common) - Gingseng - Ginseng (common) - Grave Dust - Grave Dust (common) - Mandrake Root - Mandrake Root (common) - Nightshade - Nightshade (common) - Nox Crystal - Nox Crystal (common) - Obsidian - Obsidian (rare) - Pig Iron - Pig Iron (common) - Pumice Stone - Pumice (rare) - Serpent's Scale - Serpent's Scale (rare) - Spider's Silk - Spider's Silk (common) - Sulfurous Ash - Sulfurous Ash (common) - Vial of Blood - Vial of Blood (rare) - Volcanic Ash (rare) - Wyrm's Heart - Wyrm's Heart (rare)
+
+##
 
 ![](../.gitbook/assets/Magia.gif)
 
 GARGOYLES
+
+They have very clear objectives as a race and strong principles, the gargoyles have the following special abilities: flying The mighty wings of a gargoyle sweep across the land as fast as a galloping horse and grant access to exclusive areas. Flying makes it possible for gargoyles to move at a speed equal to that of a mount, or the equivalent of twice as fast as walking for humans and elves. Berserk In situations of great danger, the gargoyle's natural ferocity takes over, granting speed and power at the cost of defense. 15% Bonus Damage and +3% Spell Damage that increases for every 20% Health missing from Max Health (60% Bonus Weapon Damage and 12% Spell Damage). master craftsman A strong cultural emphasis on crafting grants gargoyles a superior opportunity to imbue and decipher magical items. They have a high chance to imbue at low levels and decreases at higher levels. Deadly Aim All gargoyles are trained from their youth in the Throwing skill, giving them superior proficiency in projectile weapons. The minimum skill of a gargoyle in Throwing is 20.0. Gargoyles receive an extra 5% chance to hit with 45% extra ranged weapons in later patches. MysticInsight They have an intuitive understanding of Mysticism, allowing them to cast basic Mysticism spells without prior training. The minimum skill in Mysticism is 30.0. +2 Mana Regen that stacks with Meditation and Focus.
 
 ## NECROMANCER
 
@@ -64,4 +80,5 @@ Dark necromantic art specialized in the use and control of death, pain against o
 
 ![](../.gitbook/assets/Nigromancia.gif)
 
+\
 \
