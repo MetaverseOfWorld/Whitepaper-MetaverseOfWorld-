@@ -12,6 +12,7 @@
 * [Special Skill](game/special-skill.md)
 * [Mount](game/mount.md)
 * [The way to earn money](game/the-way-to-earn-money.md)
+* [Key Points](game/key-points.md)
 
 ## 🦊 CONNECTING WITH METAMASK
 
