@@ -1,5 +1,7 @@
 ---
 description: INFORMATION
+cover: ../.gitbook/assets/ultima-online-1379688702.jpg
+coverY: -15.467519685039369
 ---
 
 # The way to earn money

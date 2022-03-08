@@ -1,5 +1,7 @@
 ---
 description: MOW
+cover: ../.gitbook/assets/Ultima-Online-wallpaper-1.jpg
+coverY: 131.0236220472441
 ---
 
 # Key Points
