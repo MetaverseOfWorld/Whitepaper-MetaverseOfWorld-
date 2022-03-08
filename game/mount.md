@@ -27,3 +27,9 @@ With "Mounts" we refer to the NPCs that can be mounted by our character, within 
 | MOUNTS ARE ONLY SAFE IN THE STABLE OR WHILE A PLAYER IS MOUNTING THEM If the houses are used to house mounts, it is possible that they will disappear |
 
 ![](<../.gitbook/assets/Escarabajo (1).gif>) ![](../.gitbook/assets/Caballo\_huesos.gif) ![](../.gitbook/assets/Oso\_guerra.gif) ![](../.gitbook/assets/Oclock.gif) ![](../.gitbook/assets/Mustang.gif)
+
+...tamable beasts
+
+These are the beasts that we can dominate in MOW: Alligator, Black Bear, Brown Bear, Grizzly Bear, Polar Bear, Bird, Wild Boar, Bull, Bullfrog, Cat, Chicken, Cougar, Cow, Dog, Dragon (White Wyrm), Dragonborn, Eagle, Fire Steed, Frost Spider , Giant Beetle, Giant Ice Worm, Giant Rat, Giant Scorpion, Giant Spider, Giant Frog, Goat, Mountain Goat, Gorilla, Big Deer, Little Cat
+
+Hellcat, Hellhound, Stag, Packhorse, Riding Horse, Imp, Kirin, Lava Lizard, Llama, Charging Llama, Riding Llama, Monster Bat, Weak Monster Bat, Nightmare, Desert Ostard, Forest Ostard, Crazed Ostard, Panther, Pig, Rabbit, Lucky Rabbit, Rat, Sewer Rat, Rhodesian Crested Dog, Wild Rhodesian Crested Dog, Sheep, Grasshopper, Mucus, Small Snake, Snow Leopard, Swamp Dragon , Unicorn, Walrus Seal, War Horse, Gray Wolf, Forest Wolf, Snow Wolf, Direwolf.
