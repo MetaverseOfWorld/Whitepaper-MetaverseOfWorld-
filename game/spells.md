@@ -1,5 +1,7 @@
 ---
 description: INFORMATION ON SPELLS
+cover: ../.gitbook/assets/145461-melisenta.jpg
+coverY: -62.99212598425198
 ---
 
 # Spells
