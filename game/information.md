@@ -22,6 +22,8 @@ coverY: 201.6106785317019
 
 MOW protectors, humans have adapted to their environment, enhancing many skills and abilities: strong-back Years of hard work allow more weight to be carried on their hard backs. Humans have increased strength-determined weight-bearing capacity. Carry 60 additional Weight Stones. Tough Accustomed to overcoming adversity, humans regenerate health faster than ever before. They regenerate health points faster than normal. +2 Hit Point Regeneration Workhorse Humans have a better chance of finding more resources when searching for fur, metal, or wood. +1 Logs in Trammel +2 Logs in Felucca +1 ore with random mining Additional skins jack of all trades The curiosity for the things of humans has led to a basic knowledge of what surrounds him. They have level 20 in all skills even if they have not been trained (does not show in the skills menu)
 
+![](../.gitbook/assets/ultima-online-ultima-online-1301191110.jpg)
+
 
 
 
