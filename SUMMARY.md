@@ -8,6 +8,7 @@
 * [Skills](game/skills.md)
 * [Information](game/information.md)
 * [Spells](game/spells.md)
+* [Page 1](game/page-1.md)
 * [Special Skill](game/special-skill.md)
 * [Mount](game/mount.md)
 
