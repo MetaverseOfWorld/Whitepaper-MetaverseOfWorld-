@@ -76,6 +76,8 @@ It is the main skill of a mage or a scribe. With this ability, our character can
 
 
 
+![](../.gitbook/assets/Magia.gif)
+
 ### Items needed for spellbook quests:
 
 _Bat Wings - Bat Wings (common) - Blackmoor- Blackmoor(rare) - Black Pearl - Black Pearl(common) - Blackrock - Blackrock (rare) - Blood Moss - Blood Moss (common) - Blood Spawn - Blood Spawn ( rare) - Bone - Bone (rare) - Sharpening Stone - Brimstone (rare) - Demon Blood - Daemon Blood (common) - Demon Bone - Daemon Bone (common) - Dead Wood - Dead Wood (rare) - Dragon Blood - Dragon's Blood (rare) - Executioner's Cap - Executioner's Cap (rare) - Eye of Newt - Eye of Newt (rare) - Fertile Dirt - Fertile Dirt (rare) - Garlic - Garlic (common) - Gingseng - Ginseng (common) - Grave Dust - Grave Dust (common) - Mandrake Root - Mandrake Root (common) - Nightshade - Nightshade (common) - Nox Crystal - Nox Crystal (common) - Obsidian - Obsidian (rare) - Pig Iron - Pig Iron (common) - Pumice Stone - Pumice (rare) - Serpent's Scale - Serpent's Scale (rare) - Spider's Silk - Spider's Silk (common) - Sulfurous Ash - Sulfurous Ash (common) - Vial of Blood - Vial of Blood (rare) - Volcanic Ash (rare) - Wyrm's Heart - Wyrm's Heart (rare)_
