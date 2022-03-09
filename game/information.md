@@ -84,7 +84,7 @@ _Bat Wings - Bat Wings (common) - Blackmoor- Blackmoor(rare) - Black Pearl - Bla
 
 They have very clear objectives as a race and strong principles, the gargoyles have the following special abilities: flying The mighty wings of a gargoyle sweep across the land as fast as a galloping horse and grant access to exclusive areas. Flying makes it possible for gargoyles to move at a speed equal to that of a mount, or the equivalent of twice as fast as walking for humans and elves. Berserk In situations of great danger, the gargoyle's natural ferocity takes over, granting speed and power at the cost of defense. 15% Bonus Damage and +3% Spell Damage that increases for every 20% Health missing from Max Health (60% Bonus Weapon Damage and 12% Spell Damage). master craftsman A strong cultural emphasis on crafting grants gargoyles a superior opportunity to imbue and decipher magical items. They have a high chance to imbue at low levels and decreases at higher levels. Deadly Aim All gargoyles are trained from their youth in the Throwing skill, giving them superior proficiency in projectile weapons. The minimum skill of a gargoyle in Throwing is 20.0. Gargoyles receive an extra 5% chance to hit with 45% extra ranged weapons in later patches. MysticInsight They have an intuitive understanding of Mysticism, allowing them to cast basic Mysticism spells without prior training. The minimum skill in Mysticism is 30.0. +2 Mana Regen that stacks with Meditation and Focus.
 
-![](../.gitbook/assets/Magia.gif)
+![](../.gitbook/assets/race\_gargoyle.png)
 
 ### NECROMANCER
 
