@@ -22,7 +22,7 @@ coverY: 201.6106785317019
 
 MOW protectors, humans have adapted to their environment, enhancing many skills and abilities: strong-back Years of hard work allow more weight to be carried on their hard backs. Humans have increased strength-determined weight-bearing capacity. Carry 60 additional Weight Stones. Tough Accustomed to overcoming adversity, humans regenerate health faster than ever before. They regenerate health points faster than normal. +2 Hit Point Regeneration Workhorse Humans have a better chance of finding more resources when searching for fur, metal, or wood. +1 Logs in Trammel +2 Logs in Felucca +1 ore with random mining Additional skins jack of all trades The curiosity for the things of humans has led to a basic knowledge of what surrounds him. They have level 20 in all skills even if they have not been trained (does not show in the skills menu)
 
-![](<../.gitbook/assets/Sin título.png>)
+![](<../.gitbook/assets/Sin título.png>)
 
 
 
@@ -55,6 +55,8 @@ For example, if a player recovers 5 points of energy in 10 seconds while standin
 ## ELVES
 
 Founders of the deepest forests of MOW and bound to nature, elves have the following skills and abilities: Night Sight Exceptional vision, even at night. Elves always have the effect of the Night Sight spell at maximum degree. Night Sight is always active. Infused with Magic Its resistant skin has increased the ability to overcome energy attacks. Elves have an extra layer of resistance, although they must increase it by training normally. Resilient skin has an increased capacity to resist damage from energy attacks. +5 to Energy Resistance (75 total) Difficult to Track Elves are harder to track than humans. perception They have increased perception of both hidden creatures and resources. They have more chance to detect hidden monsters and enemies automatically. Knowledge of Nature and resources. Elves have more chance to get special resources like colored metal or special wooden planks. wisdom The wisdom of nature, with an affinity for casting spells. They receive a bonus to their maximum mana. +20 Mana Increase Bonus
+
+![](../.gitbook/assets/race\_elf.png)
 
 ### NINJA
 
