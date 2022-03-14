@@ -4,9 +4,9 @@
 
 {% tabs %}
 {% tab title="Private pre-sale MOW/BNB" %}
-**Duration:** &#x20;
+**Duration:**  16/03/2022  | 26/03/2022
 
-**Soft cap:**      **Hard cap:**&#x20;
+**Soft cap:**     10 BNB  **Hard cap:** 250 BNB
 
 **Minimum purchase:**  <mark style="color:yellow;"></mark>     **Maximum purchase:**&#x20;
 
