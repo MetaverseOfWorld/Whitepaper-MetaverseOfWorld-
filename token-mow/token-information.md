@@ -12,5 +12,6 @@ Token information MOW stands for our Metaverse of World token, developed on the 
 * **Decimals:** 18
 * **Network:** BSC (Binance Smart Chain)
 * **Total Supply:** 300.000.000
+* **Audit:** [https://github.com/MetaverseOfWorld/MOW-Audit-Smartcontract-KYC/blob/main/TECHAUDIT\_MetaverseOfWorld\_2022\_VERIFIED\_KYC.pdf](https://github.com/MetaverseOfWorld/MOW-Audit-Smartcontract-KYC/blob/main/TECHAUDIT\_MetaverseOfWorld\_2022\_VERIFIED\_KYC.pdf)
 
 Total supply is **300,000,000 MOW** Liquidity and development funds will be blocked.
